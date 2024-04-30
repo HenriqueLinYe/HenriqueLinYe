@@ -47,5 +47,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HenriqueLinYe&theme=vue-dark&hide_border=false)<br/>
 
-
+![Snake animation](https://github.com/HenriqueLinYe/HenriqueLinYe/blob/output/github-contribution-grid-snake.svg)
 
